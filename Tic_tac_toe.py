@@ -24,8 +24,8 @@ def check_win(player):
 
 
 def play_game():
-    player1 = 'A'
-    player2 = 'B'
+    player1 = '0'
+    player2 = '1'
     current_player = player1
     while True:
         print_board()
